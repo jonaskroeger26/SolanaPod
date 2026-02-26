@@ -88,4 +88,78 @@ export const musicLibrary: Artist[] = [
       },
     ],
   },
+  {
+    name: "Aditya Sharma",
+    albums: [
+      {
+        name: "NCS",
+        songs: [
+          {
+            id: "aditya-sharma-bad-idea",
+            title: "BAD IDEA",
+            r2Key: "Aditya Sharma - BAD IDEA  Electronic Pop  NCS - Copyright Free Music.mp3",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "nuphory, Chikaya",
+    albums: [
+      {
+        name: "NCS",
+        songs: [
+          {
+            id: "nuphory-chikaya-make-me-feel",
+            title: "Make Me Feel",
+            r2Key: "nuphory, Chikaya - Make Me Feel  Rally House  NCS x Aurorian Records - Copyright Free Music  NCS.mp3",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Cartoon, Jéja",
+    albums: [
+      {
+        name: "NCS",
+        songs: [
+          {
+            id: "cartoon-jeja-on-and-on",
+            title: "On & On (feat. Daniel Levi)",
+            r2Key: "Cartoon, Jéja - On & On (feat. Daniel Levi) Electronic Pop NCS - Copyright Free Music.mp3",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Taketones",
+    albums: [
+      {
+        name: "Tracks",
+        songs: [
+          { id: "taketones-blue-smoke", title: "Blue Smoke", r2Key: "Taketones_BlueSmoke.wav" },
+          { id: "taketones-if-i-had-a-chance", title: "If I Had A Chance", r2Key: "Taketones_Ifl Had A Chance.wav" },
+          { id: "taketones-our-day-will-come", title: "Our Day Will Come", r2Key: "Taketones_OurDay Will Come.wav" },
+          { id: "taketones-silk-hair", title: "Silk Hair", r2Key: "Taketones_SilkHair.wav" },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Unknown Brain x Rival",
+    albums: [
+      {
+        name: "NCS",
+        songs: [
+          {
+            id: "unknown-brain-rival-control",
+            title: "Control (feat. Jex)",
+            r2Key: "Unknown Brain x Rival - Control (feat. Jex) Trap NCS - Copyright Free Music.mp3",
+          },
+        ],
+      },
+    ],
+  },
 ]
